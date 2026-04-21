@@ -6,8 +6,8 @@ on:
       - builds-debian-13/*
 
 env:
-  DEBIAN_PACKAGE_SUFFIX: -btactic
-  TAG_SUFFIX: -btactic
+  DEBIAN_PACKAGE_SUFFIX: -kaieixperiment
+  TAG_SUFFIX: -kaieixperiment
   DISTRO_FULLNAME: Debian 13
   DISTRO_TAG_PREFIX: debian-13
 
